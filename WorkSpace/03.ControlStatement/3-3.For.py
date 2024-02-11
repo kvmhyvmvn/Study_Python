@@ -35,7 +35,7 @@ print(add)
 # 구구단
 for i in range(2, 10):
     for j in range(1, 10):
-        print(i*j, end=" ") # end 파라미터 다음 줄로 넘기지 않고 계속 출력
+        print(i*j, end=" ") # end 파라미터: 다음 줄로 넘기지 않고 계속 출력
     print('')
 
 a = [1,2,3,4]
